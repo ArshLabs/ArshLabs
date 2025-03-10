@@ -40,9 +40,9 @@ I'm a first-year Computer Science student passionate about web development and p
 ---
 
 # 📊 GitHub Stats:
-<img src="https://github-readme-stats.vercel.app/api?username=ArshLabs&theme=dark&hide_border=false&include_all_commits=false&count_private=false"/>  
+<img src="https://github-readme-stats.vercel.app/api?username=ArshLabs&theme=dark&hide_border=false&include_all_commits=true&count_private=true"/>  
 <img src="https://nirzak-streak-stats.vercel.app/?user=ArshLabs&theme=dark&hide_border=false"/>  
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArshLabs&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact"/>  
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArshLabs&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact"/>  
 
 ---
 
