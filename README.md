@@ -38,13 +38,8 @@ I love building sleek, modern web apps and experimenting with new technologies.
 
 <div align="center">
 
-## 🐍 GitHub Contribution Snake:
-<img src="https://raw.githubusercontent.com/ArshLabs/ArshLabs/output/github-snake-dark.svg"/>
-
----
 
 ## 📊 GitHub Stats:
-<img src="https://github-readme-stats.vercel.app/api?username=ArshLabs&theme=dark&hide_border=false&include_all_commits=true&count_private=true"/>  
 <img src="https://nirzak-streak-stats.vercel.app/?user=ArshLabs&theme=dark&hide_border=false"/>  
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArshLabs&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact"/>  
 
