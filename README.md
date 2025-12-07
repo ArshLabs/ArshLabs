@@ -38,13 +38,6 @@ I love building sleek, modern web apps and experimenting with new technologies.
 
 <div align="center">
 
-
-## 📊 GitHub Stats:
-<img src="https://nirzak-streak-stats.vercel.app/?user=ArshLabs&theme=dark&hide_border=false"/>  
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArshLabs&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact"/>  
-
----
-
 ### ⚡ Powered by ArshLabs ⚡
 
 </div>
