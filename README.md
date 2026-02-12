@@ -4,6 +4,7 @@
 
 - 🔹 Full-stack Web3 developer working with **smart contracts and on-chain verification**  
 - 🔹 Focused on **transparent systems** anyone can verify  
+- 🔹 Currently grinding **Rust** and **DeFi development**  
 - 💬 Ask me about **Solidity, Web3, Smart Contracts, DeFi**  
 - 📫 **arshlabsconnect@gmail.com**  
 
@@ -44,7 +45,8 @@
 </p>
 
 <p align="center">
-  <!-- Backend & Languages -->
+  <!-- Languages & Tools -->
+  <a href="https://www.rust-lang.org"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-original.svg" width="50" height="50"/></a>&nbsp;&nbsp;
   <a href="https://nodejs.org"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="50" height="50"/></a>&nbsp;&nbsp;
   <a href="https://git-scm.com"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="50" height="50"/></a>&nbsp;&nbsp;
   <a href="https://github.com"><img width="50" height="50" alt="GitHub" src="https://github.com/user-attachments/assets/1f70e5d7-29a8-494d-9353-6f6de437e142" /></a>&nbsp;&nbsp;
