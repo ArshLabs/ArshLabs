@@ -8,9 +8,6 @@
 - 💬 Ask me about **Solidity, Web3, Smart Contracts, DeFi**  
 - 📫 **arshlabsconnect@gmail.com**  
 
-<p align="center">
-  <img src="character.jpg" width="500"/>
-</p>
 
 ---
 
