@@ -5,7 +5,7 @@
 <br/>
 
 - Full-stack Web3 developer working across smart contracts, DeFi systems, and execution layer tooling
-- Contributor to reth, alloy-eips, EPF protocol-studies, rust, cargo, foundry.
+- **Contributor to reth, alloy-eips, EPF protocol-studies, rust, cargo, foundry.**
 - Building and writing about things I care about: protocol internals, DeFi, and what breaks
 - 💬 Ask me about Solidity, Rust, Web3, Smart Contracts, DeFi
 - 📫 arshlabsconnect@gmail.com
